@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git的奇技淫巧:see_no_evil:
 > Git常用命令集合，Fork于[tips](https://github.com/git-tips/tips)项目
 
@@ -500,3 +501,6 @@ git remote add origin <remote-url>
 - 或者直接提Pr，Issues
 
 **[⬆ 返回顶部](#目录)**
+=======
+# git
+>>>>>>> 673bfb31b68b28f6654ec2cce69100d77db51225
