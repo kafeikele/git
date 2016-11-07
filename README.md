@@ -496,8 +496,8 @@ git remote add origin <remote-url>
 
 
 ## 联系我
-- 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
-- 邮箱：<a href="mailto:595666367@qq.com">发邮件给我</a>
+- 博客园：[whh](http://xiaotaozi.blog.51cto.com/)
+- 邮箱：<a href="mailto:1046641572@qq.com">发邮件给我</a>
 - 或者直接提Pr，Issues
 
 **[⬆ 返回顶部](#目录)**
